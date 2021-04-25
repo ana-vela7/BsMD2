@@ -1,0 +1,21 @@
+Package: BsMD2
+Title: Bayes Screening and Model Discrimination
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ernesto Barrios y Patricia Vela",
+           family = "",
+           role = c("aut", "cre"),
+           email = "ebarrios@itam.mx",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Bayes screening and model discrimination follow-up designs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    methods,
+    graphics,
+    utils
+Depends: 
+    R (>= 2.10)
