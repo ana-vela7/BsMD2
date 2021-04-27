@@ -2,11 +2,14 @@ Package: BsMD2
 Title: Bayes Screening and Model Discrimination
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Ernesto Barrios y Patricia Vela",
-           family = "",
-           role = c("aut", "cre"),
-           email = "ebarrios@itam.mx",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    c(person(given = "Ernesto",
+           family = "Barrios",
+           role = "cre",
+           email = "ebarrios@itam.mx"),
+    person(given = "Patricia",
+           family = "Vela",
+           role = "aut",
+           email = "patyvela36@gmail.com"))
 Description: Bayes screening and model discrimination follow-up designs.
 License: MIT + file LICENSE
 Encoding: UTF-8
